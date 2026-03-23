@@ -19,3 +19,4 @@ Dự án mô phỏng và chế tạo hệ thống chiếu sáng tự động có
 ## Wiring & Setup
 ![z7648991340033_8d50ce85ab1ad60313e79e1567014072](https://github.com/user-attachments/assets/f2c9fa7b-63b0-478f-b727-c0f78c5e7b60)
 <img width="1320" height="523" alt="smart-lighting-system" src="https://github.com/user-attachments/assets/7ba01b1e-0158-4664-844c-4c79a4c20c78" />
+*Dự án thực hành Cơ điện tử nền tảng - Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE).*
