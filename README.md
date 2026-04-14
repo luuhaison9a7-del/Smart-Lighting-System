@@ -1,4 +1,4 @@
-# smart-lighting-system
+# Smart-Lighting-System
 Arduino-based automated lighting system with 5-second debounce logic
 # Smart Automated Lighting System
 
