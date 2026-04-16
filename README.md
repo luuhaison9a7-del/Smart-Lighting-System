@@ -22,4 +22,4 @@ Dự án mô phỏng và chế tạo hệ thống chiếu sáng tự động có
 <img width="1352" height="520" alt="smart-lighting-system(1)" src="https://github.com/user-attachments/assets/025db8b5-6994-4f8f-a719-61b432868f6e" />
 <p align="center">Hình ảnh Tindercad mang tính chất minh họa một số linh kiện có thể khác so với mô hình thực tế</p>
 
-* Dự án thực hành Cơ điện tử nền tảng - Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE) (23/03/2026). * 
+*Dự án thực hành Cơ điện tử nền tảng - Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE) (23/03/2026).* 
